@@ -1,0 +1,9 @@
+{
+    "development": {
+        "driver": "mysql",
+        "user": "sql12762125",
+        "host": "sql12.freesqldatabase.com",
+        "password": "q8jRR9hF8T",
+        "database": "sql12762125"
+    }
+}
